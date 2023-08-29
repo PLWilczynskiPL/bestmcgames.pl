@@ -1,1 +1,1 @@
-SECOND STABLE RELEASE WOOOOOOO!
+now part of maksw.pl
